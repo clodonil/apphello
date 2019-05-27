@@ -1,7 +1,7 @@
 import os
 
 
-#app
+#app2
 MSG        = 'development'
 DB_URL     = 'db_url'
 DB_USER    = 'db_user'
